@@ -6,10 +6,11 @@ Cappriciosa
 Algérienne
 Savoyarde
 Napoletana
+Canibale
+Quatres fromages
+Végétarienne
 
 #Base crème
 Savoyarde
-quatres fromages
 Pizza a la truffa
-
-
+Nordique
