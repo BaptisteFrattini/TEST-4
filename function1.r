@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # # Halo !
 # #Base tomate
 # Calzone
@@ -32,4 +32,4 @@ Végétarienne
 Savoyarde
 Pizza a la truffa
 Nordique
->>>>>>> 98a9422ce950b2b1efffec55f21e1b9eea541a80
+
